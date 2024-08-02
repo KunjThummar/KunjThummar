@@ -1,3 +1,5 @@
+//PROGRAMER : KUNJ THUMMAR
+//AIM : TO MAKE MATCHSTICK GAME
 #include<stdio.h>
 void main()
 {
@@ -22,4 +24,3 @@ void main()
    printf("you lost the game.");}
    }
 }
-
