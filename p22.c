@@ -1,51 +1,67 @@
 #include<stdio.h>
-float marks(int[],int);
-float avg(int[],int);
+void m(int[],int);
+float avg(int,int);
+int highest(int[],int);
+int lowest(int[],int);
 void main()
 {
-    int N;
-    int i,j,T;
-    float average;
-    printf("ENTER THE NUMBER OF STUDENT : ");
-    scanf("%d",&N);
-    int M[N];
-    printf("Average Marks : %f",marks(M,N));
-    for(i=0;i<N;i++)
-    {
-        for(j=i+1;j<N;j++)
-        {
-        if(M[i]<M[j])
-            {
-                T=M[i];
-                M[i]=M[j];
-                M[j]=T;            }
-        }
-    }
-    printf("\nHighest Marks : %d",M[0]);
-    printf("\nLowest Marks : %d",M[N-1]);
-    printf("\n\nProgrammer : Kunj Thummar \nID : 24ce128");
+ int num,total=0,i,L,H;
+ float average;
+ printf("Enter the number of student : ");
+ scanf("%d",&num);
+ int marks[num];
+ m(marks,num);
+ for(i=0;i<num;i++)
+  {
+    total=total+marks[i];
+  }
+ printf("Total Marks : %d",total);
+ average = avg(total,num);
+ printf("\nAverage Marks : %f\n",average);
+ H=highest(marks,num);
+ printf("Highest Marks : %d\n",H);
+ L=lowest(marks,num);
+ printf("Lowest Marks : %d\n",L);
 }
- float marks(int A[],int n)
+void m(int marks[], int num)
+{
+    int i;
+    printf("\nEnter the ccp marks of students :");
+    for(i=0;i<num;i++)
     {
-        float a;
-        int j;
-        for(j=0 ; j<n ; j++)
-        {
-            printf("Student %d:",j+1);
-            scanf("%d",&A[j]);
-        }
-        a=avg(A,n);
-        return a;
+        printf("\nStudent %d : ",i+1);
+        scanf("%d",&marks[i]);
     }
-    float avg(int B[],int num)
+
+}
+float avg(int total,int num)
+{
+    float a;
+    a=(float)total/num;
+    return a;
+}
+int highest(int marks[],int num)
+{
+    int max=marks[0],i;
+    for(i=0;i<num;i++)
     {
-        float T=0;
-        int x;
-        for(x=0 ; x<num ; x++)
-        {
-            T=T+B[x];
-        }
-        printf("%d",T);
-        T=T/num;
-        return T;
-            }
+         if(marks[i]>max)
+         {
+            max=marks[i];
+         }
+
+    }
+   return max;
+}
+int lowest(int marks[],int num)
+{
+     int min=marks[0],i;
+    for(i=0;i<num;i++)
+    {
+         if(marks[i]<min)
+         {
+            min=marks[i];
+         }
+    }
+   return min;
+}
