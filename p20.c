@@ -2,7 +2,7 @@
 void p();
 int ns();
 void g(int[],int);
-int avg(int,int);
+float avg(int,int);
 void main()
 {
     int N,i,m[25],o=1,sum=0;
@@ -22,9 +22,9 @@ void main()
     {
     sum=sum+m[i];
     A=avg(sum,N);
-
     }
-printf("%f",A);
+printf("Average : %.2f",A);
+printf("\n\nprogrammer : Kunj Thummar\nID : 24ce128");
 }
 void p()
 {
@@ -45,10 +45,9 @@ void g(int Grade[],int num)
    printf("Student %d: Grade = %d\n",j+1,Grade[j]);
     }
 }
-int avg(int a,int d)
+float avg(int a,int d)
 {
-    int ans;
+    float ans;
     ans=a/(float)d;
     return ans;
 }
-
