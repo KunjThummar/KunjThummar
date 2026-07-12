@@ -35,20 +35,6 @@
 
 </div>
 
-
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KunjThummar&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=KunjThummar&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunjThummar&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KunjThummar&theme=tokyo-night&hide_border=true" />
-</p>
 </div>
 
 ---
@@ -62,16 +48,56 @@
 - 📫 Reach me on **LinkedIn** or **Instagram**
 
 ---
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Developer;Computer+Engineering+Student;Node.js+%7C+MongoDB+%7C+Express;Always+Learning+New+Things" />
+</p>
 
+---
 ## 🛠️ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode&perline=7"/>
+<!-- <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode&perline=7"/> -->
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c" title="C Programming" width="50"/>
+<img src="https://skillicons.dev/icons?i=cpp" title="C++" width="50"/>
+<img src="https://skillicons.dev/icons?i=java" title="Java" width="50"/>
+<img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="50"/>
+<img src="https://skillicons.dev/icons?i=react" title="React" width="50"/>
+<img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" width="50"/>
+<img src="https://skillicons.dev/icons?i=express" title="Express.js" width="50"/>
+<img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" width="50"/>
+<img src="https://skillicons.dev/icons?i=mysql" title="MySQL" width="50"/>
+<img src="https://skillicons.dev/icons?i=git" title="Git" width="50"/>
+<img src="https://skillicons.dev/icons?i=github" title="GitHub" width="50"/>
+<img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code" width="50"/>
+
+</p>
+
 
 </p>
 
 ---
+
+<div align="center">
+<p align="center">
+  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KunjThummar&show_icons=true&theme=tokyonight&hide_border=true" /> -->
+  <img width="49%" src="https://streak-stats.demolab.com?user=KunjThummar&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- <p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunjThummar&layout=compact&theme=tokyonight&hide_border=true" />
+</p> -->
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KunjThummar&theme=tokyo-night&hide_border=true" />
+</p>
+</div>
+
+---
+
+
 
 ## 📈 GitHub Activity
 
