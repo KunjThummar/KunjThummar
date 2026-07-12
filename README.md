@@ -7,7 +7,9 @@
 ### 💻 Computer Engineering Student | Backend Developer | Open Source Enthusiast
 
 <p>
-  [![Portfolio](https://img.shields.io/badge/Portfolio-yourportfolio.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-yourportfolio.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/kunj-thummar-ba6516326/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Kunj%20Thummar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -30,11 +32,6 @@
 <td valign="top"><img src="./info-card.svg" width="490" alt="Avi Vashishta — experience, stack, highlights" /></td>
 </tr>
 </table>
-
-<!-- animated contribution graph: real data, boxes reveal cell by cell
-     (regenerated daily by .github/workflows/update-profile-art.yml) -->
-<!-- <img src="./contrib-heatmap.svg" width="860" alt="Avi's GitHub contribution graph — auto-refreshed daily" /> -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=KunjThummar&theme=tokyonight&hide_border=true)](https://github.com/KunjThummar)
 
 </div>
 
