@@ -111,8 +111,6 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=KunjThummar&style=for-the-badge&color=blue)
-
 ⭐ **Thanks for visiting my profile!**
 
 </div>
