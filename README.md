@@ -16,7 +16,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-yourportfolio.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kunj--thummar--ba6516326-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunj-thummar-ba6516326/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kunj--thummar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunj-thummar-ba6516326/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-kunj__thummar__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kunj_thummar_/)
 
@@ -26,6 +26,7 @@
 
 <!-- animated contribution graph: real data, boxes reveal cell by cell
      (regenerated daily by .github/workflows/update-profile-art.yml) -->
-<img src="./contrib-heatmap.svg" width="860" alt="Avi's GitHub contribution graph — auto-refreshed daily" />
+<!-- <img src="./contrib-heatmap.svg" width="860" alt="Avi's GitHub contribution graph — auto-refreshed daily" /> -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=KunjThummar&theme=tokyonight&hide_border=true)](https://github.com/KunjThummar)
 
 </div>
