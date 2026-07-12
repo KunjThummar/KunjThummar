@@ -7,6 +7,7 @@
 ### 💻 Computer Engineering Student | Backend Developer | Open Source Enthusiast
 
 <p>
+  [![Portfolio](https://img.shields.io/badge/Portfolio-yourportfolio.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
   <a href="https://www.linkedin.com/in/kunj-thummar-ba6516326/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Kunj%20Thummar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -29,17 +30,6 @@
 <td valign="top"><img src="./info-card.svg" width="490" alt="Avi Vashishta — experience, stack, highlights" /></td>
 </tr>
 </table>
-
-## Kunj Thummar
-
-**Backend Developer**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-yourportfolio.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kunj--thummar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunj-thummar-ba6516326/)
-[![Instagram](https://img.shields.io/badge/Instagram-kunj__thummar__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kunj_thummar_/)
-[![Live Terminal](https://img.shields.io/badge/⚡_Live_Terminal-Visit-22d3ee?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://your-live-terminal-url.com)
-
-<br>
 
 <!-- animated contribution graph: real data, boxes reveal cell by cell
      (regenerated daily by .github/workflows/update-profile-art.yml) -->
