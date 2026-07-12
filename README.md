@@ -14,10 +14,13 @@
 
 **Fullstack Developer · AI Builder · Instructor**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-avivashishta.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](/*portfplio link*/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-avivashishta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunj-thummar-ba6516326/)
-[![Instagram](https://img.shields.io/badge/Instagram-avi__vashishta29-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kunj_thummar_)
-[![Live Terminal](https://img.shields.io/badge/⚡_Live_Terminal-avivashishta29.github.io-22d3ee?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://avivashishta29.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yourportfolio.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kunj--thummar--ba6516326-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunj-thummar-ba6516326/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-kunj__thummar__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kunj_thummar_/)
+
+[![Live Terminal](https://img.shields.io/badge/⚡_Live_Terminal-Visit-22d3ee?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://your-live-terminal-url.com)
 
 <br>
 
