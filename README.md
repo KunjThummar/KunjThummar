@@ -38,17 +38,16 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KunjThummar&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-
-  <img src="https://streak-stats.demolab.com?user=KunjThummar&theme=tokyonight&hide_border=true" height="170" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KunjThummar&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=KunjThummar&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunjThummar&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunjThummar&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KunjThummar&theme=tokyo-night&hide_border=true" width="95%" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KunjThummar&theme=tokyo-night&hide_border=true" />
 </p>
 </div>
 
